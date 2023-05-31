@@ -1,9 +1,9 @@
 body {color: black;
-    background-color: rgb(245, 245, 245);
-    font-family: arial,georgia,serif;
-    font-size: 12px;
+  background-color: rgb(245, 245, 245);
+  font-family: arial,georgia,serif;
+  font-size: 12px;
 }
-    
+  
 H1 {color: black;
 }
 
@@ -14,38 +14,38 @@ p {color: grey;
 /*hyperlinks*/
 
 a:link { 
-  font-weight: bold; 
-  text-decoration: none; 
-  color: red;
-  }
+font-weight: bold; 
+text-decoration: none; 
+color: red;
+}
 a:visited { 
-  font-weight: bold; 
-  text-decoration: none; 
-  color: rgb(100, 0, 128);
-  }
+font-weight: bold; 
+text-decoration: none; 
+color: rgb(100, 0, 128);
+}
 a:hover, a:focus, a:active { 
-  text-decoration: underline; 
-  color: #9685BA;
-  }
+text-decoration: underline; 
+color: #9685BA;
+}
 
 /*holds everything together*/
 
 .container {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-right: auto;
-      margin-left: auto;
-  width: 960px;
-  border: 1px dotted red;
-  padding: 20px;
-  
-  }
+margin-top: 0px;
+margin-bottom: 0px;
+margin-right: auto;
+    margin-left: auto;
+width: 960px;
+border: 1px dotted red;
+padding: 20px;
+
+}
 /*horizontal rule (line)*/
 hr {
-  width: 80%;
-  border-width: 4px;
-  margin-bottom: 0.5em;
-    margin-left: 50px;
-    margin-right: 50px;
-   border-style: outset;
-      }
+width: 80%;
+border-width: 4px;
+margin-bottom: 0.5em;
+  margin-left: 50px;
+  margin-right: 50px;
+ border-style: outset;
+    }
